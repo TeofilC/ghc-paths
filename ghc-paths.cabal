@@ -32,7 +32,7 @@ tested-with:
 custom-setup
         setup-depends:
             base  >= 3   && < 5
-          , Cabal >= 1.6 && < 3.15
+          , Cabal >= 1.6 && < 3.17
           , directory
 
 library
